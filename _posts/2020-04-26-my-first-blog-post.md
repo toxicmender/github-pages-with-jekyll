@@ -1,8 +1,7 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Welcome to my first blog post"
+date: 2020-04-27
 ---
 
-# The First
 This is the first post, just to see how it all works out.
 Written & published during COVID19 pandemic self-quarantine.
